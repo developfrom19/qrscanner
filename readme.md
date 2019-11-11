@@ -4,7 +4,7 @@
 
 # cordova-plugin-qrscanner
 
-****changed variable name in qrscanner.swift file to make iOS build succesfull
+****changed variable name in qrscanner.swift file to make iOS build successful
 
 
 A fast, energy efficient, highly-configurable QR code scanner for Cordova apps – available for the iOS, Android, Windows, and browser platforms.
